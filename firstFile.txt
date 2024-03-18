@@ -1,5 +1,5 @@
-1 Changed 2 lines in firstFile.txt in git_1
-2 Changed 2 lines in firstFile.txt in git_1
+1
+2
 3
 4
 5
